@@ -3,7 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-# I built this application that could contribute to that software developer who needs to know about listing items
+# On this project, you'll know about ListView & ListView.builder, method and function and also how to reuse the method and function cross your project.
+# In addition, you'll know, how to clean code that will help you in debugging, testing, maintaining, updating and upgrading your project.
 
 This project is a starting point for a Flutter application.
 
